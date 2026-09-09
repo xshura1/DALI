@@ -1,0 +1,13 @@
+.\objects\net.o: net.c
+.\objects\net.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\net.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\net.o: net.h
+.\objects\net.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\net.o: enc28j60.h
+.\objects\net.o: arp.h
+.\objects\net.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\net.o: net.h
+.\objects\net.o: tcp.h
+.\objects\net.o: udp.h
+.\objects\net.o: uart.h
+.\objects\net.o: timers.h

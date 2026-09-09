@@ -1,0 +1,13 @@
+.\objects\cmd_queue.o: cmd_queue.c
+.\objects\cmd_queue.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\cmd_queue.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cmd_queue.o: cmd_queue.h
+.\objects\cmd_queue.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cmd_queue.o: tcp.h
+.\objects\cmd_queue.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\cmd_queue.o: enc28j60.h
+.\objects\cmd_queue.o: net.h
+.\objects\cmd_queue.o: arp.h
+.\objects\cmd_queue.o: net.h
+.\objects\cmd_queue.o: tcp.h
+.\objects\cmd_queue.o: uart.h

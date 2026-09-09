@@ -1,0 +1,10 @@
+.\objects\cmd.o: cmd.c
+.\objects\cmd.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\cmd.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\ctype.h
+.\objects\cmd.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\cmd.o: utils.h
+.\objects\cmd.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\cmd.o: cmd.h
+.\objects\cmd.o: cmd_token.h
+.\objects\cmd.o: cmd_func.h
+.\objects\cmd.o: cmd_msg.h

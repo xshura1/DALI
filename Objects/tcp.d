@@ -1,0 +1,12 @@
+.\objects\tcp.o: tcp.c
+.\objects\tcp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tcp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tcp.o: tcp.h
+.\objects\tcp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tcp.o: spi.h
+.\objects\tcp.o: wizchip_conf.h
+.\objects\tcp.o: w5500.h
+.\objects\tcp.o: wizchip_conf.h
+.\objects\tcp.o: socket.h
+.\objects\tcp.o: uart.h
+.\objects\tcp.o: timers.h

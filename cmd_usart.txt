@@ -1,0 +1,20 @@
+$AA$55$01 - up
+$AA$55$02 - down
+$AA$55$04 - step down
+$AA$55$05 - recall max level
+
+$AA$55$97 - query version number
+$AA$55$A0 - query actual level
+$AA$55$90 - query status
+$AA$55$91 - query ballast
+$AA$55$92 - query lamp failure
+$AA$55$99 - query device type
+$AA$55$BB - query short address
+$AA$55$A5 - query fide rate/time
+
+
+$BB$01$00
+
+$AA$03$97
+
+$AA$03$00$AA$07$A0

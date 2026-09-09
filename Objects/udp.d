@@ -1,0 +1,10 @@
+.\objects\udp.o: udp.c
+.\objects\udp.o: udp.h
+.\objects\udp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\udp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\udp.o: C:\tools\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\udp.o: enc28j60.h
+.\objects\udp.o: net.h
+.\objects\udp.o: arp.h
+.\objects\udp.o: net.h
+.\objects\udp.o: tcp.h
